@@ -1,0 +1,47 @@
+[
+  {
+    "_id": {
+      "$oid": "507f1f77bcf86cd799439011"
+    },
+    "name": "Hercules",
+    "emailaddress": "greek@gmail.co.uk",
+    "address": "3/4 Station",
+    "country": "Ireland",
+    "birthdate": {
+      "$date": "1972-02-01T01:00:00Z"
+    },
+    "date": {
+      "$date": "1965-02-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "618f1f77bcf86cd799439011"
+    },
+    "name": "Sai",
+    "emailaddress": "Sai@BlockTrace.com",
+    "address": "Texas",
+    "country": "United States",
+    "birthdate": {
+      "$date": "1972-02-01T01:00:00Z"
+    },
+    "date": {
+      "$date": "1965-02-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "729f1f77bcf86cd799439011"
+    },
+    "name": "Marshall",
+    "emailaddress": "Marshall@BlockTrace.com",
+    "address": "Texas",
+    "country": "United States",
+    "birthdate": {
+      "$date": "1972-02-01T01:00:00Z"
+    },
+    "date": {
+      "$date": "1965-02-11T00:00:00Z"
+    }
+  }
+]
